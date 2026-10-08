@@ -1,0 +1,5 @@
+rtdetr-l model weights:best.pt size:63.1M (bs:16)Latency:0.01637s +- 0.00418s fps:61.1
+YOLO12n-seg model weights:best.pt size:5.8M (bs:16)Latency:0.00348s +- 0.00149s fps:287.5
+YOLO11-seg model weights:best.pt size:5.7M (bs:16)Latency:0.00247s +- 0.00183s fps:404.7
+YOLOv8-seg-p6 model weights:best.pt size:10.0M (bs:16)Latency:0.00232s +- 0.00061s fps:431.3
+YOLOv8n-seg summary model weights:best.pt size:6.5M (bs:16)Latency:0.00230s +- 0.00065s fps:433.9
